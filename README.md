@@ -56,7 +56,7 @@ I'm currently pursuing my **B.Tech in Information Technology** and exploring the
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sai-ambika-paidimarri-a2918b39b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sai-ambika-paidimarri-a2918b39b/)
 
 ---
 
